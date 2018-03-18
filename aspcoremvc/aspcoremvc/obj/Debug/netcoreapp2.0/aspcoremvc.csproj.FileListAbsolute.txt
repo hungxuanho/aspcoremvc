@@ -1,0 +1,11 @@
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\bin\Debug\netcoreapp2.0\aspcoremvc.deps.json
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\bin\Debug\netcoreapp2.0\aspcoremvc.runtimeconfig.json
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\bin\Debug\netcoreapp2.0\aspcoremvc.runtimeconfig.dev.json
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\bin\Debug\netcoreapp2.0\aspcoremvc.dll
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\bin\Debug\netcoreapp2.0\aspcoremvc.pdb
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.csprojResolveAssemblyReference.cache
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.csproj.CoreCompileInputs.cache
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.AssemblyInfoInputs.cache
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.AssemblyInfo.cs
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.dll
+C:\Users\hungx\source\repos\aspcoremvc\aspcoremvc\obj\Debug\netcoreapp2.0\aspcoremvc.pdb
